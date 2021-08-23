@@ -30,7 +30,7 @@
   <a href="https://www.facebook.com/elton.f.novais/" target="_blank"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/fernandesnovais/" target="_blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <br>
-  ##
+  
   
   ![Snake animation](https://github.com/brunocominotti/brunocominotti/blob/output/github-contribution-grid-snake.svg)
   
