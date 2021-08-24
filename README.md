@@ -32,7 +32,7 @@
    <br>
   
   
-  ![Snake animation](https://github.com/brunocominotti/brunocominotti/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Elton-Novais/brunocominotti/blob/output/github-contribution-grid-snake.svg)
   
  
    
